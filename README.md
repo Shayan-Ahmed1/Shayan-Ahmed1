@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Shayan-Ahmed1 currently pursuing my BS in Software Engineering from FAST- NUCES University
+- 👋 Hi, I’m @Shayan-Ahmed1 currently pursuing my BS degree in Software Engineering from FAST- NUCES University
 - 👀 I'm particularly interested in learning and developing skills in Web/Software Development, Data Science and team contribution.
 - 🌱 I’m currently learning/ working as a Data Analyst Intern at Telenor, and my main focus here is to to develop and enhance my skillset and gain real-world experience in the domain of data science. 
 - 💞️ I’m looking to collaborate on coding projects that solved real world problems
